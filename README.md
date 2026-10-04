@@ -1,0 +1,2 @@
+# premium-oil-harden-001-oil-hardening-steel-o1-tool
+Tired of inconsistent hardness results and scattered notes? Your O1 tool steel deserves a dedicated digital workspace that tracks every quench, temper, and oil bath.  This Notion template replaces paper logs and messy spreadsheets with a structured system for recording your oil hardening recipes, material specs, and treatment history. Stop guessing
